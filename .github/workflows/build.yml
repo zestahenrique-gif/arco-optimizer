@@ -1,4 +1,4 @@
-Gerar Arco Optimizer
+name: Gerar Arco Optimizer
 on:
   workflow_dispatch:
   push:
